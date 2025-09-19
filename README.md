@@ -1,2 +1,2 @@
-# tiaozhanbei
+# 挑战杯
 Python实现BS架构Flask的Web流动青少年管理信息系统
